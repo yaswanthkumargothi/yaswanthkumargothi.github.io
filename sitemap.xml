@@ -3,277 +3,307 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example/example1/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example.1/example3/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example.1/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example.2/example3/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example.2/example3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example.1/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example.1/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example.2/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example.2/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example.2/example4/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example.2/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example/example2/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/example.1/example4/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/example.1/example4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/coding/</loc>
+    <loc>https://yaswanthkumargothi.github.io/talk/coding/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/qualitative/</loc>
+    <loc>https://yaswanthkumargothi.github.io/talk/qualitative/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/</loc>
+    <loc>https://yaswanthkumargothi.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/talk/synthesizing/</loc>
+    <loc>https://yaswanthkumargothi.github.io/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/courses/</loc>
+    <loc>https://yaswanthkumargothi.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/authors/admin/</loc>
+    <loc>https://yaswanthkumargothi.github.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/3/</loc>
+    <loc>https://yaswanthkumargothi.github.io/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication/preprint/</loc>
+    <loc>https://yaswanthkumargothi.github.io/certification/programming/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/authors/</loc>
+    <loc>https://yaswanthkumargothi.github.io/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/</loc>
+    <loc>https://yaswanthkumargothi.github.io/certification/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication/</loc>
+    <loc>https://yaswanthkumargothi.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/source-themes/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/post/jupyter/</loc>
+    <loc>https://yaswanthkumargothi.github.io/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/post/</loc>
+    <loc>https://yaswanthkumargothi.github.io/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/slides/</loc>
+    <loc>https://yaswanthkumargothi.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/slides/example/</loc>
+    <loc>https://yaswanthkumargothi.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/post/2016-12-30-hello-markdown/</loc>
+    <loc>https://yaswanthkumargothi.github.io/post/2016-12-30-hello-markdown/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/about/</loc>
+    <loc>https://yaswanthkumargothi.github.io/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/</loc>
+    <loc>https://yaswanthkumargothi.github.io/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/artificial-intelligence/</loc>
+    <loc>https://yaswanthkumargothi.github.io/project/churn-modelling/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/deep-learning/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/clustering/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/deep-learning/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/decision-trees/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/demo/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/econometrics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/external-project/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/gephi/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/human/</loc>
+    <loc>https://yaswanthkumargothi.github.io/project/house-hold-load-forecating/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/internal-project/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/kaggle/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/</loc>
+    <loc>https://yaswanthkumargothi.github.io/project/restaurant-sentiment-analysis/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/robotics/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/network-analysis/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/robotics/</loc>
+    <loc>https://yaswanthkumargothi.github.io/project/product-demand-forecasting-and-customer-segmentation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/project/skin-cancer-ai/</loc>
+    <loc>https://yaswanthkumargothi.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/post/snail/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/prophet/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/tags/regression/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/project/social-media-intelligence/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/tags/time-series/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/tags/time-series-analysis/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/tags/transfer-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/tags/twitter-sentiment-analysis/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaswanthkumargothi.github.io/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/academia/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/post/getting-started/</loc>
+    <loc>https://yaswanthkumargothi.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/2/</loc>
+    <loc>https://yaswanthkumargothi.github.io/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication/journal-article/</loc>
+    <loc>https://yaswanthkumargothi.github.io/certification/machine-learning/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/authors/robert-ford/</loc>
+    <loc>https://yaswanthkumargothi.github.io/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/categories/</loc>
+    <loc>https://yaswanthkumargothi.github.io/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://yaswanthkumargothi.github.io/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/plot/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/categories/r/</loc>
+    <loc>https://yaswanthkumargothi.github.io/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/r-markdown/</loc>
+    <loc>https://yaswanthkumargothi.github.io/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://academia-hugo.netlify.com/post/2015-01-01-lorem-ipsum/</loc>
+    <loc>https://yaswanthkumargothi.github.io/post/2015-01-01-lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication_types/1/</loc>
+    <loc>https://yaswanthkumargothi.github.io/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://academia-hugo.netlify.com/publication/conference-paper/</loc>
+    <loc>https://yaswanthkumargothi.github.io/certification/statistics/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
